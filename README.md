@@ -4,7 +4,7 @@ Private meeting transcripts for your Mac. Hearsay records both sides of a call
 — your microphone and the other people — and transcribes them **on your Mac**.
 No bot joins the meeting, no account, no cloud.
 
-**[⬇ Download the latest version](https://github.com/AymanSulaiman/hearsay-releases/releases/latest)**
+**[⬇ Download Hearsay for Mac (.dmg)](https://github.com/AymanSulaiman/hearsay-releases/releases/latest/download/Hearsay-arm64.dmg)**
 (Apple Silicon, macOS 14.4 or later)
 
 ## What it does
@@ -27,6 +27,12 @@ No bot joins the meeting, no account, no cloud.
 itself (about 3.1 GB, once, from Hugging Face) on your first transcription.
 Recordings and transcripts never leave your Mac. There's no analytics, no
 account, and no server.
+
+**Updates, only if you say yes.** On first launch Hearsay asks whether it may
+check for new versions. If you agree, once a day it asks GitHub whether a newer
+release exists; nothing about you or your recordings is sent. A new version is
+never installed silently: you're asked, and Download opens the new `.dmg`.
+Change it any time under Hearsay > Check for Updates Automatically.
 
 Your library lives in `~/Documents/Hearsay` (you can move it from inside the
 app).
