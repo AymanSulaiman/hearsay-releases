@@ -4,7 +4,7 @@ Private meeting transcripts for your Mac. Hearsay records both sides of a call
 — your microphone and the other people — and transcribes them **on your Mac**.
 No bot joins the meeting, no account, no cloud.
 
-**[⬇ Download Hearsay for Mac (.dmg)](https://github.com/AymanSulaiman/hearsay-releases/releases/latest/download/Hearsay-arm64.dmg)**
+**[⬇ Download Hearsay for Mac (.dmg)](https://usehearsay.app/latest/Hearsay-arm64.dmg)**
 (Apple Silicon, macOS 14.4 or later)
 
 ## What it does
